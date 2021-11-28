@@ -1,5 +1,6 @@
 .idea
 *.csv
 *.txt
-.jpg
-.png
+*.jpg
+*.png
+old
